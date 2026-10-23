@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A Plystra partnership is a way for an excellent independent developer, or a very small studio, to build a product together with Plystra and release it worldwide. Plystra works on the product itself: design, code, writing, and review. When the author wants it, Plystra LLC, a United States company, also puts the product on sale and collects payment from customers around the world, either as the seller itself or through a merchant-of-record platform. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
+A Plystra partnership is a way for an excellent independent product creator, or a very small studio, to build a product together with Plystra and release it worldwide. Plystra works on the product itself: its direction, design, and writing as well as its code. When the author wants it, Plystra LLC, a United States company, also puts the product on sale and collects payment from customers around the world, either as the seller itself or through a merchant-of-record platform. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
 
 Plystra does this to learn from people who build well and to let Plystra grow through work it is proud of. It does not charge partners for it, and it does not ask for equity, a share of revenue, or ownership of anything the author makes.
 
@@ -22,7 +22,7 @@ Trust is established before the agreement, by choosing people carefully, and not
 
 ## What a partnership is
 
-A partnership is a relationship between Plystra LLC and one author: an individual developer or a studio of a few people. Plystra does not partner with larger companies, does not invest, and does not take equity.
+A partnership is a relationship between Plystra LLC and one author: an individual product creator or a studio of a few people. Plystra does not partner with larger companies, does not invest, and does not take equity.
 
 The partnership differs from the relationships defined in [Plystra Craft](https://github.com/plystra/craft#scope-and-project-relationships):
 
@@ -30,7 +30,7 @@ The partnership differs from the relationships defined in [Plystra Craft](https:
 | --- | --- | --- | --- |
 | Plystra-owned project | Plystra LLC | Owner and steward | A Plystra project. |
 | Sponsored project | Its independent owner | Agreed support only | Sponsored by Plystra. |
-| **Partner project** | **The author** | **Co-developer, and sales channel when agreed** | **An agreed statement of Plystra's participation** |
+| **Partner project** | **The author** | **Collaborator on the product, and sales channel when agreed** | **An agreed statement of Plystra's participation** |
 
 A partner project is not a Plystra-owned project and must not be described as one. Plystra's work on it is deeper than sponsorship: Plystra takes part in product decisions and in the work itself, and its participation is stated publicly once the product has earned it.
 
@@ -53,7 +53,7 @@ A partnership forms in stages, and either side may stop at any stage before an a
 1. **Conversation.** Plystra and the author talk at length about the product, how the author works, and what each side expects. Plystra partners with people before it partners with products; a strong product from someone Plystra does not trust does not proceed.
 2. **Trial collaboration.** Plystra and the author work together on one concrete piece, such as a feature or a release, for two to four weeks. The trial shows how each side writes code, handles feedback, keeps commitments, and resolves disagreement. It shows the author as much about Plystra as it shows Plystra about the author. A short trial agreement is signed before the trial begins; see [The trial agreement](#the-trial-agreement).
 3. **Written agreement.** Both sides sign an agreement that records the terms in this document, the Craft provisions the product must meet, and anything specific to the product.
-4. **Co-development.** Plystra and the author work on the product together. The product uses its own name and makes no public reference to Plystra.
+4. **Working together.** Plystra and the author work on the product together. The product uses its own name and makes no public reference to Plystra.
 5. **Standard review.** Plystra's steward reviews the product against the agreed standard. If it meets the standard, Plystra's participation may be stated publicly. If it does not, work continues or the partnership ends, and the public never learns of the association.
 6. **Release and continuing review.** The product goes on sale, through the author's own channels or through Plystra LLC, according to the form of the partnership. The standard continues to apply to every release, and Plystra may review the product at any time.
 

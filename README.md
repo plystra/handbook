@@ -4,7 +4,7 @@ Documents that describe how Plystra works with people outside it.
 
 ## Documents
 
-- [Plystra Partnerships](partnerships.md): how Plystra co-develops products with independent developers and very small studios, sells them worldwide when the author wants it, and states Plystra's participation once a product meets the Plystra standard. `Planned`.
+- [Plystra Partnerships](partnerships.md): how Plystra builds products together with independent product creators and very small studios, sells them worldwide when the author wants it, and states Plystra's participation once a product meets the Plystra standard. `Planned`.
 
 ## License
 
