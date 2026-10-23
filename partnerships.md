@@ -57,7 +57,7 @@ A partnership forms in stages, and either side may stop at any stage before an a
 5. **Standard review.** Plystra's steward reviews the product against the agreed standard. If it meets the standard, Plystra's participation may be stated publicly. If it does not, work continues or the partnership ends, and the public never learns of the association.
 6. **Release and continuing review.** The product goes on sale, through the author's own channels or through Plystra LLC, according to the form of the partnership. The standard continues to apply to every release, and Plystra may review the product at any time.
 
-Plystra takes on only as many partnerships as it can work on deeply. A candidate may be asked to wait.
+Plystra takes on only a few partnerships at a time. A candidate may be asked to wait.
 
 ## The trial agreement
 
@@ -116,7 +116,7 @@ In either structure, this document calls the account that holds the product's cu
 Plystra makes these commitments to every author, and the agreement records them:
 
 - **No charge.** Plystra takes no fee, commission, revenue share, equity, or payment of any kind for its work, during the partnership or after it.
-- **Honesty about involvement.** Plystra does not commit to any amount or kind of contribution: no quantity of code, design, writing, ideas, or time. What Plystra contributes follows what the product needs and what Plystra can give at the time, and a period with little or no contribution is not a breach. Plystra tells the author plainly how involved it can be, and tells the author when that changes.
+- **No commitment on involvement.** Plystra does not commit to any amount or kind of contribution: no quantity of code, design, writing, ideas, or time. What Plystra contributes follows what the product needs and what Plystra can give at the time, and a period with little or no contribution is not a breach.
 - **Confidentiality.** Plystra keeps the author's unreleased source, trade secrets, unreleased plans, and other non-public information confidential, and uses them only for the partnership. Information that is public, that Plystra already knew, or that Plystra develops independently is not confidential.
 - **Independent work stays free.** Confidentiality does not stop Plystra from independently developing products in any field, including ones similar to the author's, so long as it does not use the author's confidential information. During the partnership, Plystra tells the author before it begins work on a product that would compete directly with the partner product.
 - **Prompt, transparent payment.** In a development and sales partnership, Plystra LLC sends the author a statement every month and pays within 30 days after the month ends. Any amount held back is shown on the statement with the reason.
