@@ -65,6 +65,8 @@ Plystra's contributions belong to the author. All code, designs, writing, and id
 
 Two things are not contributions to the product and are excluded from that assignment. First, materials Plystra created outside the partnership and brings into it, such as Plystra's own libraries, tools, and components, remain Plystra's; the author receives a perpetual license to use them in the product, which continues after the partnership ends. Second, the Plystra name, wordmark, and visual identity remain Plystra's and may be used only as described in [Stating Plystra's participation](#stating-plystras-participation).
 
+The author grants Plystra LLC a non-exclusive license to distribute and commercialize the product. The license lets Plystra LLC host, reproduce, market, distribute, and sell the product; use the product's name, logo, screenshots, and descriptions to do so; and authorize the payment processor or merchant-of-record platform in use to complete the transactions, issue receipts, and deliver the product to customers. The license transfers no ownership, does not limit the author's own rights in the product, and gives Plystra no right to change the product's license terms for customers. It begins when the partnership agreement is signed and ends when the sales transition ends, or at once when the partnership ends for serious cause, except as needed to honour customers who have already paid. Licenses that customers received with their purchases continue under the product's own terms.
+
 The product's customers are the author's customers. Customer and subscription records sit in Plystra LLC's sales account on the author's behalf, and are handed to the author when the partnership ends, as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions).
 
 ## Source sharing
@@ -200,6 +202,8 @@ A partner product may become a Plystra-owned project, but only when the author a
 
 The change is made by a separate written transfer agreement, negotiated for the particular product. Under it, Plystra LLC acquires the copyright in the product, its name, and its domain, and takes over the customer relationships as far as the law allows. Whether Plystra pays for the transfer, and what the author's role is afterwards, are agreed freely between the two sides. The author may continue as a maintainer under a separate agreement, or step away.
 
+Before the transfer, both sides confirm that the author has the right to transfer every asset named in it. This means checking the licenses of third-party components, obtaining assignments or permissions from anyone else who contributed code, design, or content, and confirming that the name and domain are free of competing claims. Assets the author cannot transfer are named in the agreement and handled separately.
+
 A product can make this change only if it meets the conditions the [Charter](https://github.com/plystra/craft/blob/main/CHARTER.md) sets for every Plystra-owned project, including a commitment to the full Craft philosophy, and only if Plystra can maintain it with the resources it has.
 
 After the transfer, the product follows the rules for Plystra-owned projects and may say "A Plystra project". The author is credited as its original creator permanently, for example "Created by [Author]", on the product's website and in its repository.
@@ -217,14 +221,15 @@ Plystra does not collect or move money informally on anyone's behalf.
 The following must be settled with a lawyer and an accountant before the first agreement is signed:
 
 - the trial agreement, including the assignment of trial contributions, confidentiality, and deletion of source when no partnership follows;
-- the form of the partnership agreement, including the assignment of Plystra's contributions, the perpetual license of Plystra's existing materials, the license to state Plystra's participation, confidentiality and its exception for independent development, termination, and the right of first negotiation;
+- the form of the partnership agreement, including the license to distribute and commercialize the product, the assignment of Plystra's contributions, the perpetual license of Plystra's existing materials, the license to state Plystra's participation, confidentiality and its exception for independent development, termination, and the right of first negotiation;
 - the mutual indemnities, and how the author's responsibility for customers is made enforceable under each sales structure;
 - the author's warranties about originality, licensing, disclosure, and security;
 - whether partner products should be sold through Plystra LLC or through a separate entity that isolates their liabilities;
 - the refund policy and Plystra LLC's terms of sale, and the reserve for each product, set from the actual payment channel, chargeback windows, and subscription terms;
 - for each sales structure, Plystra LLC's obligations as seller or as platform vendor, and the choice of payment processor or platform;
+- confirmation from the chosen payment processor or platform that Plystra LLC may sell products made by third-party authors under its account, and whether a separate arrangement for platforms or marketplaces is required;
 - how subscriptions and customer records are moved to the author at the end of a partnership under each platform's actual migration process, and how prepaid periods are honoured or refunded;
-- the transfer agreement used when a partner product becomes a Plystra project;
+- the transfer agreement used when a partner product becomes a Plystra project, including how the author's right to transfer each asset is verified;
 - tax treatment of payments to authors, including withholding and treaty rates;
 - customer data: Plystra LLC's role while it holds the data, and the lawful basis for handing it to the author.
 
