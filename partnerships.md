@@ -2,7 +2,9 @@
 
 ## Purpose
 
-A Plystra partnership is a way for an excellent independent product creator, or a very small studio, to shape a product together with Plystra and release it worldwide. Plystra takes part in the product mainly by thinking it through with the author: its direction, the problem it solves, its experience and design, how it is described, and how it is sold. The form of that collaboration is not fixed. It may be conversation and criticism, shared decisions, or hands-on work, in whatever mix suits the product and the people. When the author wants it, Plystra LLC, a United States company, also puts the product on sale and collects payment from customers around the world, either as the seller itself or through a merchant-of-record platform. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
+The purpose of a Plystra partnership is to make products together with excellent people. An independent product creator, or a very small studio, and Plystra shape a product together: its direction, the problem it solves, its experience and design, how it is described, and how it is sold. The form of that collaboration is not fixed. It may be conversation and criticism, shared decisions, or hands-on work, in whatever mix suits the product and the people. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
+
+Selling the product is not the purpose of a partnership, and Plystra does not offer partnerships as a distribution or payment service. If the author wants it, Plystra LLC, a United States company, can also put the product on sale and collect payment from customers around the world, either as the seller itself or through a merchant-of-record platform. That is an optional addition to a partnership, never the reason for one.
 
 Plystra does this to learn from people who build well and to let Plystra grow through work it is proud of. It does not charge partners for it, and it does not ask for equity, a share of revenue, or ownership of anything the author makes.
 
@@ -36,7 +38,7 @@ A partner project is not a Plystra-owned project and must not be described as on
 
 ## Two forms of partnership
 
-A partnership takes one of two forms, and the agreement names which.
+A partnership takes one of two forms, and the agreement names which. Every partnership is a product partnership; selling through Plystra LLC is an option the author may add.
 
 **Product partnership.** Plystra thinks the product through with the author, takes part in its decisions, and states its participation once the product meets the standard. The author sells the product through the author's own channels, under the author's own name or company, and is its seller with every obligation that carries. Plystra has no license to sell the product, no sales account for it, and no part in its payments. Nothing is exclusive.
 
