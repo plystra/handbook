@@ -14,7 +14,7 @@ This document states who may become a member, what membership is and is not, how
 
 ## Who may become a member
 
-Only the author of a partner product may become a member. Membership begins with work, not with an application: a person first builds a product together with Plystra as described in [Plystra Partnerships](partnerships.md), and shows through that work that they are reliable, principled, and able to give and take criticism well.
+Only the author of a partner product may become a member. Membership begins with work, not with an application: a person first shapes a product together with Plystra as described in [Plystra Partnerships](partnerships.md), and shows through that work that they are reliable, principled, and able to give and take criticism well.
 
 A product creator who has proven themselves in a partnership may become a member when both they and Plystra want it. Membership is agreed between them; it is never automatic, and it is never a condition of a partnership or a reward promised to win one. Plystra's steward decides whether to offer membership and may decline without giving reasons.
 

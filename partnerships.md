@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A Plystra partnership is a way for an excellent independent product creator, or a very small studio, to build a product together with Plystra and release it worldwide. Plystra works on the product itself: its direction, design, and writing as well as its code. When the author wants it, Plystra LLC, a United States company, also puts the product on sale and collects payment from customers around the world, either as the seller itself or through a merchant-of-record platform. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
+A Plystra partnership is a way for an excellent independent product creator, or a very small studio, to shape a product together with Plystra and release it worldwide. Plystra takes part in the product mainly by thinking it through with the author: its direction, the problem it solves, its experience and design, how it is described, and how it is sold. The form of that collaboration is not fixed. It may be conversation and criticism, shared decisions, or hands-on work, in whatever mix suits the product and the people. When the author wants it, Plystra LLC, a United States company, also puts the product on sale and collects payment from customers around the world, either as the seller itself or through a merchant-of-record platform. When the product meets the Plystra standard, Plystra's participation is stated publicly on the product's website and in its repository.
 
 Plystra does this to learn from people who build well and to let Plystra grow through work it is proud of. It does not charge partners for it, and it does not ask for equity, a share of revenue, or ownership of anything the author makes.
 
@@ -30,30 +30,30 @@ The partnership differs from the relationships defined in [Plystra Craft](https:
 | --- | --- | --- | --- |
 | Plystra-owned project | Plystra LLC | Owner and steward | A Plystra project. |
 | Sponsored project | Its independent owner | Agreed support only | Sponsored by Plystra. |
-| **Partner project** | **The author** | **Collaborator on the product, and sales channel when agreed** | **An agreed statement of Plystra's participation** |
+| **Partner project** | **The author** | **Product partner, and sales channel when agreed** | **An agreed statement of Plystra's participation** |
 
-A partner project is not a Plystra-owned project and must not be described as one. Plystra's work on it is deeper than sponsorship: Plystra takes part in product decisions and in the work itself, and its participation is stated publicly once the product has earned it.
+A partner project is not a Plystra-owned project and must not be described as one. Plystra's part in it is deeper than sponsorship: Plystra thinks the product through with the author and takes part in its decisions, and its participation is stated publicly once the product has earned it.
 
 ## Two forms of partnership
 
 A partnership takes one of two forms, and the agreement names which.
 
-**Development partnership.** Plystra works on the product with the author, takes part in product decisions, and states its participation once the product meets the standard. The author sells the product through the author's own channels, under the author's own name or company, and is its seller with every obligation that carries. Plystra has no license to sell the product, no sales account for it, and no part in its payments. Nothing is exclusive.
+**Product partnership.** Plystra thinks the product through with the author, takes part in its decisions, and states its participation once the product meets the standard. The author sells the product through the author's own channels, under the author's own name or company, and is its seller with every obligation that carries. Plystra has no license to sell the product, no sales account for it, and no part in its payments. Nothing is exclusive.
 
-**Development and sales partnership.** Everything in a development partnership, and in addition Plystra LLC sells the product worldwide and collects payment for it. Because customers need one place to buy the product, one set of terms, and one party to ask about payment, the right to sell is exclusive to Plystra LLC for as long as the sales arrangement lasts, as described in [The license to sell](#the-license-to-sell).
+**Product and sales partnership.** Everything in a product partnership, and in addition Plystra LLC sells the product worldwide and collects payment for it. Because customers need one place to buy the product, one set of terms, and one party to ask about payment, the right to sell is exclusive to Plystra LLC for as long as the sales arrangement lasts, as described in [The license to sell](#the-license-to-sell).
 
-The sections on the license to sell, how the product is sold, payments, reserves, and moving customers apply only to a development and sales partnership. Everything else applies to both forms.
+The sections on the license to sell, how the product is sold, payments, reserves, and moving customers apply only to a product and sales partnership. Everything else applies to both forms.
 
-The form can change. A development partnership becomes a development and sales partnership by a written amendment both sides sign. A development and sales partnership becomes a development partnership when either side gives 30 days' written notice to end the sales arrangement alone; see [Ending the sales arrangement](#ending-the-sales-arrangement).
+The form can change. A product partnership becomes a product and sales partnership by a written amendment both sides sign. A product and sales partnership becomes a product partnership when either side gives 30 days' written notice to end the sales arrangement alone; see [Ending the sales arrangement](#ending-the-sales-arrangement).
 
 ## How a partnership forms
 
 A partnership forms in stages, and either side may stop at any stage before an agreement is signed.
 
 1. **Conversation.** Plystra and the author talk at length about the product, how the author works, and what each side expects. Plystra partners with people before it partners with products; a strong product from someone Plystra does not trust does not proceed.
-2. **Trial collaboration.** Plystra and the author work together on one concrete piece, such as a feature or a release, for two to four weeks. The trial shows how each side works, makes decisions, uses tools, handles feedback, keeps commitments, and resolves disagreement. It shows the author as much about Plystra as it shows Plystra about the author. A short trial agreement is signed before the trial begins; see [The trial agreement](#the-trial-agreement).
+2. **Trial collaboration.** Plystra and the author take on one concrete question about the product together, such as a decision, a design, or a release, for two to four weeks. The trial shows how each side works, makes decisions, uses tools, handles feedback, keeps commitments, and resolves disagreement. It shows the author as much about Plystra as it shows Plystra about the author. A short trial agreement is signed before the trial begins; see [The trial agreement](#the-trial-agreement).
 3. **Written agreement.** Both sides sign an agreement that records the terms in this document, the Craft provisions the product must meet, and anything specific to the product.
-4. **Working together.** Plystra and the author work on the product together. The product uses its own name and makes no public reference to Plystra.
+4. **Working together.** Plystra and the author shape the product together, in whatever form suits it. The product uses its own name and makes no public reference to Plystra.
 5. **Standard review.** Plystra's steward reviews the product against the agreed standard. If it meets the standard, Plystra's participation may be stated publicly. If it does not, work continues or the partnership ends, and the public never learns of the association.
 6. **Release and continuing review.** The product goes on sale, through the author's own channels or through Plystra LLC, according to the form of the partnership. The standard continues to apply to every release, and Plystra may review the product at any time.
 
@@ -87,9 +87,9 @@ The author keeps the domain in good standing for the whole partnership, with aut
 
 ## The license to sell
 
-In a development and sales partnership, the author grants Plystra LLC a license to distribute and commercialize the product. The license lets Plystra LLC host, reproduce, market, distribute, and sell the product; use the product's name, logo, screenshots, and descriptions to do so; and authorize the payment processor, merchant-of-record platform, or app store in use to complete the transactions, issue receipts, and deliver the product to customers. The license transfers no ownership and gives Plystra no right to change the product's license terms for customers.
+In a product and sales partnership, the author grants Plystra LLC a license to distribute and commercialize the product. The license lets Plystra LLC host, reproduce, market, distribute, and sell the product; use the product's name, logo, screenshots, and descriptions to do so; and authorize the payment processor, merchant-of-record platform, or app store in use to complete the transactions, issue receipts, and deliver the product to customers. The license transfers no ownership and gives Plystra no right to change the product's license terms for customers.
 
-For as long as the sales arrangement lasts, the right to sell the product is exclusive to Plystra LLC. Neither the author nor anyone the author authorizes sells the product, or paid access to it, through any other channel, so that customers have one place to buy it, one set of terms, and one party to ask about payment. The exclusivity covers sales only. The author keeps every other right in the product: to develop and modify it, to use it, to publish its source under a license of the author's choosing, and to offer any free edition the agreement names. Exclusivity is consistent with [the principle](#the-principle) only because the author can end it at any time; an author who wants to sell the product elsewhere ends the sales arrangement, and may keep working with Plystra as a development partnership.
+For as long as the sales arrangement lasts, the right to sell the product is exclusive to Plystra LLC. Neither the author nor anyone the author authorizes sells the product, or paid access to it, through any other channel, so that customers have one place to buy it, one set of terms, and one party to ask about payment. The exclusivity covers sales only. The author keeps every other right in the product: to develop and modify it, to use it, to publish its source under a license of the author's choosing, and to offer any free edition the agreement names. Exclusivity is consistent with [the principle](#the-principle) only because the author can end it at any time; an author who wants to sell the product elsewhere ends the sales arrangement, and may keep working with Plystra as a product partnership.
 
 The agreement lists any channels through which the author sold the product before the partnership, and states how each is closed or moved. Subscriptions sold there remain the author's responsibility, as described in [What the author promises](#what-the-author-promises).
 
@@ -99,7 +99,7 @@ The product's customers are the author's customers, in either form. Customer and
 
 ## How the product is sold
 
-This section applies only to a development and sales partnership. In a development partnership, the author sells the product through the author's own channels and is its seller.
+This section applies only to a product and sales partnership. In a product partnership, the author sells the product through the author's own channels and is its seller.
 
 Each agreement names one of two sales structures for the product. The difference matters because the seller of record is the party customers buy from, and it carries the seller's obligations to them.
 
@@ -117,9 +117,9 @@ Plystra makes these commitments to every author, and the agreement records them:
 - **No commitment on involvement.** Plystra does not commit to any amount or kind of contribution: no quantity of code, design, writing, ideas, or time. What Plystra contributes follows what the product needs and what Plystra can give at the time, and a period with little or no contribution is not a breach.
 - **Confidentiality.** Plystra keeps the author's unreleased source, trade secrets, unreleased plans, and other non-public information confidential, and uses them only for the partnership. Information that is public, that Plystra already knew, or that Plystra develops independently is not confidential.
 - **Independent work stays free.** Confidentiality does not stop Plystra from independently developing products in any field, including ones similar to the author's, so long as it does not use the author's confidential information. During the partnership, Plystra tells the author before it begins work on a product that would compete directly with the partner product.
-- **Prompt, transparent payment.** In a development and sales partnership, Plystra LLC sends the author a statement every month and pays within 30 days after the month ends. Any amount held back is shown on the statement with the reason.
+- **Prompt, transparent payment.** In a product and sales partnership, Plystra LLC sends the author a statement every month and pays within 30 days after the month ends. Any amount held back is shown on the statement with the reason.
 - **Credit.** Wherever Plystra's participation is stated, the author is named, and the product's own name comes first.
-- **Its own mistakes.** In a development and sales partnership, Plystra LLC bears the consequences of its own errors in running the sales account, such as incorrect charges, payout errors, and misconfigured listings, and indemnifies the author for them.
+- **Its own mistakes.** In a product and sales partnership, Plystra LLC bears the consequences of its own errors in running the sales account, such as incorrect charges, payout errors, and misconfigured listings, and indemnifies the author for them.
 - **A clean end.** When the partnership ends, Plystra stops using the author's source, keeps an archived copy only where the law or an open claim requires it, and deletes it when that need ends.
 
 ## What the author promises
@@ -128,12 +128,12 @@ The author makes these commitments to Plystra, and the agreement records them:
 
 - **The product is the author's to offer.** Its code and content are original or properly licensed, and its license obligations are met.
 - **Nothing is hidden.** Third-party dependencies are declared, data collection is disclosed, and known defects or security weaknesses that matter to customers are disclosed to Plystra.
-- **Customers are looked after.** The author provides support and after-sales service, sets the refund policy and decides individual refunds, bears the cost of refunds, and handles chargebacks and disputes about the product. In a development and sales partnership, this covers every subscription sold through Plystra LLC. In a development partnership, the author is also the seller and carries the seller's obligations directly.
+- **Customers are looked after.** The author provides support and after-sales service, sets the refund policy and decides individual refunds, bears the cost of refunds, and handles chargebacks and disputes about the product. In a product and sales partnership, this covers every subscription sold through Plystra LLC. In a product partnership, the author is also the seller and carries the seller's obligations directly.
 - **Problems are resolved.** When a customer problem or a breach of these promises arises, the author resolves it promptly.
 
 The author bears the consequences of breaking these promises, including legal liability that reaches Plystra LLC because the author did not disclose something, and indemnifies Plystra LLC for it.
 
-In a development and sales partnership, the author's refund decisions are bounded by the obligations of the seller under the sales structure in use: consumer protection law in each customer's jurisdiction, the rules of the payment processor or merchant-of-record platform, including refunds the platform grants on its own authority, and the published terms of sale. Plystra LLC may issue a refund directly through its sales account when one of these requires it, or when a customer's refund request has gone unanswered by the author for 5 business days. The cost of such a refund is the author's unless it results from Plystra LLC's own error.
+In a product and sales partnership, the author's refund decisions are bounded by the obligations of the seller under the sales structure in use: consumer protection law in each customer's jurisdiction, the rules of the payment processor or merchant-of-record platform, including refunds the platform grants on its own authority, and the published terms of sale. Plystra LLC may issue a refund directly through its sales account when one of these requires it, or when a customer's refund request has gone unanswered by the author for 5 business days. The cost of such a refund is the author's unless it results from Plystra LLC's own error.
 
 In the same form, Plystra LLC may deduct refunds and chargebacks from amounts owed to the author, and may hold back a reserve to cover refunds, chargebacks, and disputes that can still arise. Because that risk depends on the payment channel, the product, and its subscription terms, the agreement sets the reserve for each product: its size, how long each amount is held, and when it is released. The reserve is stated before the partnership begins, shown on every statement, and released when its period ends.
 
@@ -145,7 +145,7 @@ Once confirmed, the product's official website and its repository each state cle
 
 > Made by [Author] with Plystra.
 
-> Developed in partnership with Plystra.
+> Made in partnership with Plystra.
 
 > [Product] is a partnership between [Author] and Plystra.
 
@@ -155,7 +155,7 @@ Whatever the wording, it must make Plystra's participation plain to a reader, an
 
 The author and Plystra make product decisions together. When they disagree about the product itself, such as its features, roadmap, pricing, or technical approach, the author decides.
 
-Plystra decides what carries its name and what it sells. Plystra may withdraw the statement of its participation, or, in a development and sales partnership, decline to sell a particular release, on grounds of quality, privacy, security, honesty of claims, or fit with the Plystra brand. It does not need the author's agreement to do so, and it explains its reasons to the author. If the author disagrees, the author is free to leave.
+Plystra decides what carries its name and what it sells. Plystra may withdraw the statement of its participation, or, in a product and sales partnership, decline to sell a particular release, on grounds of quality, privacy, security, honesty of claims, or fit with the Plystra brand. It does not need the author's agreement to do so, and it explains its reasons to the author. If the author disagrees, the author is free to leave.
 
 ## Ending a partnership
 
@@ -167,7 +167,7 @@ Two kinds of statement are treated differently when Plystra withdraws its name o
 
 A **current endorsement** is any statement that Plystra participates in the product now, or any use of the Plystra name, wordmark, or visual identity on a current surface: the product, its official website, its repository's README and description, its store listings, and its current marketing. Current endorsement exists only while Plystra permits it.
 
-A **historical attribution** is a truthful, past-tense statement of what happened, such as "Developed with Plystra from 2027 to 2028" or "Versions 1.0 to 1.4 were developed with Plystra". It names no Plystra mark beyond the plain name, and it must not suggest that Plystra participates now or endorses the product.
+A **historical attribution** is a truthful, past-tense statement of what happened, such as "Made with Plystra from 2027 to 2028" or "Versions 1.0 to 1.4 were made with Plystra". It names no Plystra mark beyond the plain name, and it must not suggest that Plystra participates now or endorses the product.
 
 Records that cannot or need not be rewritten are neither. Version control history, commit authorship, changelogs and release notes for past releases, and legally required notices stay as they are in every case, and neither side asks the other to alter them.
 
@@ -181,17 +181,17 @@ Withdrawing the name does not by itself stop sales or end the partnership.
 
 The author may end the partnership at any time with 30 days' written notice, for any reason, including to sell the product independently or through a company of the author's own. Plystra may end it with the same notice. No fee, compensation, or payment is owed by either side for ending it.
 
-The partnership ends on the last day of the notice period. On that date, current endorsement ends and is removed within 3 days, Plystra's work on the product stops, the right of first negotiation ends, and Plystra stops using the author's source.
+The partnership ends on the last day of the notice period. On that date, current endorsement ends and is removed within 3 days, Plystra's participation in the product stops, the right of first negotiation ends, and Plystra stops using the author's source.
 
-In a development partnership, nothing further follows: the author already sells the product and keeps doing so.
+In a product partnership, nothing further follows: the author already sells the product and keeps doing so.
 
-In a development and sales partnership, a sales transition follows the end date, so that the author can move customers and subscriptions to the author's own sales, as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions). During the transition, only these obligations continue: the product stays on sale through Plystra LLC's sales account without the Plystra name, renewals, refunds, and chargebacks keep being processed, and monthly statements and payments continue; the author continues to provide support and bears the costs described in [What the author promises](#what-the-author-promises); and both sides keep their confidentiality obligations. When the transition ends, the product comes off sale through Plystra LLC, and Plystra LLC pays the final statement once the reserve period has run.
+In a product and sales partnership, a sales transition follows the end date, so that the author can move customers and subscriptions to the author's own sales, as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions). During the transition, only these obligations continue: the product stays on sale through Plystra LLC's sales account without the Plystra name, renewals, refunds, and chargebacks keep being processed, and monthly statements and payments continue; the author continues to provide support and bears the costs described in [What the author promises](#what-the-author-promises); and both sides keep their confidentiality obligations. When the transition ends, the product comes off sale through Plystra LLC, and Plystra LLC pays the final statement once the reserve period has run.
 
 After an ordinary end, the author may keep a historical attribution.
 
 ### Ending the sales arrangement
 
-In a development and sales partnership, either side may end the sales arrangement alone with 30 days' written notice, for any reason, and keep working together as a development partnership. On the last day of the notice period, exclusivity ends and the author may sell the product independently. A sales transition then follows exactly as in an ordinary end, and customers and subscriptions move as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions). Current endorsement, Plystra's work on the product, and the right of first negotiation continue.
+In a product and sales partnership, either side may end the sales arrangement alone with 30 days' written notice, for any reason, and keep working together as a product partnership. On the last day of the notice period, exclusivity ends and the author may sell the product independently. A sales transition then follows exactly as in an ordinary end, and customers and subscriptions move as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions). Current endorsement, Plystra's participation in the product, and the right of first negotiation continue.
 
 ### Ending for serious cause
 
@@ -204,13 +204,13 @@ Plystra ends the partnership immediately, without notice and without a sales tra
 - a customer problem or breach of the author's promises that the author does not resolve;
 - public conduct by the author that seriously harms Plystra's reputation.
 
-The partnership ends on the day Plystra gives notice. Within 3 days, the author removes every current endorsement and, in a development and sales partnership, new sales and renewals through Plystra LLC's sales account stop. No historical attribution may be made on any current surface.
+The partnership ends on the day Plystra gives notice. Within 3 days, the author removes every current endorsement and, in a product and sales partnership, new sales and renewals through Plystra LLC's sales account stop. No historical attribution may be made on any current surface.
 
-Ending the relationship at once does not end what paying customers are owed. In a development and sales partnership, customers who have already paid are handled as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions), in whatever time the law and the platforms require, and at the author's cost. Plystra LLC pays the final statement once the reserve period has run, less refunds, chargebacks, and costs for which the author is responsible.
+Ending the relationship at once does not end what paying customers are owed. In a product and sales partnership, customers who have already paid are handled as described in [Moving customers and subscriptions](#moving-customers-and-subscriptions), in whatever time the law and the platforms require, and at the author's cost. Plystra LLC pays the final statement once the reserve period has run, less refunds, chargebacks, and costs for which the author is responsible.
 
 ### Moving customers and subscriptions
 
-This section applies whenever a development and sales arrangement ends, whether with the partnership or alone.
+This section applies whenever a sales arrangement ends, whether with the partnership or alone.
 
 Subscriptions often cannot simply be copied from one account to another. A payment processor may copy customer and payment data between accounts without copying the active subscriptions, which must be recreated. Leaving a merchant-of-record platform involves transferring payment credentials and importing customers, and can take weeks. Moving customers is therefore planned work with steps the platforms control, not a single act either side can complete on demand.
 
@@ -240,9 +240,9 @@ The partnership agreement also gives Plystra a right of first negotiation for th
 
 ## Payments and tax
 
-In a development partnership, no money passes between Plystra and the author: the author collects the proceeds of the author's own sales, and Plystra charges nothing.
+In a product partnership, no money passes between Plystra and the author: the author collects the proceeds of the author's own sales, and Plystra charges nothing.
 
-In a development and sales partnership, the following applies. Under a direct sale, Plystra LLC is the seller of record and is responsible for registering for, collecting, and remitting sales tax and VAT where required. Under a platform sale, the platform is responsible for tax on sales, and Plystra LLC receives payouts from it as its vendor. In both, the author receives the proceeds less third-party costs, such as payment processing, platform fees, and taxes that must be withheld by law, and less the deductions described in [What the author promises](#what-the-author-promises). Every payment to an author follows a written agreement, and every author completes the tax forms United States law requires, such as Form W-8BEN for a foreign individual. Plystra LLC withholds tax where the law requires it. Each author is responsible for tax and currency rules in their own country.
+In a product and sales partnership, the following applies. Under a direct sale, Plystra LLC is the seller of record and is responsible for registering for, collecting, and remitting sales tax and VAT where required. Under a platform sale, the platform is responsible for tax on sales, and Plystra LLC receives payouts from it as its vendor. In both, the author receives the proceeds less third-party costs, such as payment processing, platform fees, and taxes that must be withheld by law, and less the deductions described in [What the author promises](#what-the-author-promises). Every payment to an author follows a written agreement, and every author completes the tax forms United States law requires, such as Form W-8BEN for a foreign individual. Plystra LLC withholds tax where the law requires it. Each author is responsible for tax and currency rules in their own country.
 
 Plystra does not collect or move money informally on anyone's behalf.
 
