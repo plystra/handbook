@@ -40,7 +40,7 @@ A partner project is not a Plystra-owned project and must not be described as on
 
 A partnership takes one of two forms, and the agreement names which. Every partnership is a product partnership; selling through Plystra LLC is an option the author may add.
 
-**Product partnership.** Plystra thinks the product through with the author, takes part in its decisions, and states its participation once the product meets the standard. The author sells the product through the author's own channels, under the author's own name or company, and is its seller with every obligation that carries. Plystra has no license to sell the product, no sales account for it, and no part in its payments. Nothing is exclusive.
+**Product partnership.** Plystra thinks the product through with the author, takes part in its decisions, and states its participation once the product meets the standard. The author makes the product's sales arrangements independently, through the author's own channels and under the author's own name or company, and carries every obligation they bring. Who the seller of record is depends on the structure the author chooses; if the author uses a merchant-of-record platform, the platform is the seller. Plystra has no license to sell the product, no sales account for it, and no part in its payments. Nothing is exclusive.
 
 **Product and sales partnership.** Everything in a product partnership, and in addition Plystra LLC sells the product worldwide and collects payment for it. Because customers need one place to buy the product, one set of terms, and one party to ask about payment, the right to sell is exclusive to Plystra LLC for as long as the sales arrangement lasts, as described in [The license to sell](#the-license-to-sell).
 
@@ -101,7 +101,7 @@ The product's customers are the author's customers, in either form. Customer and
 
 ## How the product is sold
 
-This section applies only to a product and sales partnership. In a product partnership, the author sells the product through the author's own channels and is its seller.
+This section applies only to a product and sales partnership. In a product partnership, the author makes the product's sales arrangements independently, and the seller of record is whoever the author's chosen structure makes it.
 
 Each agreement names one of two sales structures for the product. The difference matters because the seller of record is the party customers buy from, and it carries the seller's obligations to them.
 
@@ -130,7 +130,7 @@ The author makes these commitments to Plystra, and the agreement records them:
 
 - **The product is the author's to offer.** Its code and content are original or properly licensed, and its license obligations are met.
 - **Nothing is hidden.** Third-party dependencies are declared, data collection is disclosed, and known defects or security weaknesses that matter to customers are disclosed to Plystra.
-- **Customers are looked after.** The author provides support and after-sales service, sets the refund policy and decides individual refunds, bears the cost of refunds, and handles chargebacks and disputes about the product. In a product and sales partnership, this covers every subscription sold through Plystra LLC. In a product partnership, the author is also the seller and carries the seller's obligations directly.
+- **Customers are looked after.** The author provides support and after-sales service, sets the refund policy and decides individual refunds, bears the cost of refunds, and handles chargebacks and disputes about the product. In a product and sales partnership, this covers every subscription sold through Plystra LLC. In a product partnership, the author also carries whatever obligations the author's own sales arrangements bring.
 - **Problems are resolved.** When a customer problem or a breach of these promises arises, the author resolves it promptly.
 
 The author bears the consequences of breaking these promises, including legal liability that reaches Plystra LLC because the author did not disclose something, and indemnifies Plystra LLC for it.
