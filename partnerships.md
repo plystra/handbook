@@ -191,7 +191,7 @@ Because Plystra sells only what carries its name, withdrawing consent also ends 
 
 The author may end the partnership at any time with 30 days' written notice, for any reason, including to sell the product independently or through a company of the author's own. Plystra may end it with the same notice. No fee, compensation, or payment is owed by either side for ending it.
 
-The partnership ends on the last day of the notice period. On that date, current endorsement ends and is removed within 3 days, Plystra's participation in the product stops, the right of first negotiation ends, and Plystra stops using the author's source.
+The partnership ends on the last day of the notice period. On that date, current endorsement ends and is removed within 3 days, Plystra's participation in the product stops, the right of first negotiation ends, and Plystra stops using the author's source, subject to the limited exception described in [What Plystra promises](#what-plystra-promises).
 
 In a product partnership, nothing further follows: the author already sells the product and keeps doing so.
 
