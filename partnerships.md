@@ -57,8 +57,6 @@ A partnership forms in stages, and either side may stop at any stage before an a
 5. **Standard review.** Plystra's steward reviews the product against the agreed standard. If it meets the standard, Plystra's participation may be stated publicly. If it does not, work continues or the partnership ends, and the public never learns of the association.
 6. **Release and continuing review.** The product goes on sale, through the author's own channels or through Plystra LLC, according to the form of the partnership. The standard continues to apply to every release, and Plystra may review the product at any time.
 
-Plystra takes on only a few partnerships at a time. A candidate may be asked to wait.
-
 ## The trial agreement
 
 The trial happens before the partnership agreement, so it has its own short agreement, signed before any work or source is exchanged. It settles three things.
