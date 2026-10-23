@@ -128,7 +128,7 @@ Plystra makes these commitments to every author, and the agreement records them:
 - **Prompt, transparent payment.** In a product and sales partnership, Plystra LLC sends the author a statement every month and pays within 30 days after the month ends. Any amount held back is shown on the statement with the reason.
 - **Credit.** Wherever Plystra's participation is stated, the author is named, and the product's own name comes first.
 - **Its own mistakes.** In a product and sales partnership, Plystra LLC bears the consequences of its own errors in running the sales account, such as incorrect charges, payout errors, and misconfigured listings, and indemnifies the author for them.
-- **A clean end.** When the partnership ends, Plystra stops using the author's source, keeps an archived copy only where the law or an open claim requires it, and deletes it when that need ends.
+- **A clean end.** When the partnership ends, Plystra stops using the author's source, except where the agreement gives it a limited right to run the product to serve existing customers during a sales transition, keeps an archived copy only where the law or an open claim requires it, and deletes it when that need ends.
 
 ## What the author promises
 
@@ -271,6 +271,7 @@ The following must be settled with a lawyer and an accountant before the first a
 - for each sales structure, Plystra LLC's obligations as seller or as platform vendor, and the choice of payment processor or platform;
 - confirmation from the chosen payment processor or platform that Plystra LLC may sell products made by third-party authors under its account, and whether a separate arrangement for platforms or marketplaces is required;
 - for products sold through app stores, which developer account lists the product and how the listing moves to the author at the end of a partnership;
+- for each product, who hosts and operates it during a sales transition, and whether Plystra LLC needs a limited right to run its code to serve existing customers, as with a hosted service;
 - how subscriptions and customer records are moved to the author at the end of a partnership under each platform's actual migration process, and how prepaid periods are honoured or refunded;
 - the transfer agreement used when a partner product becomes a Plystra project, including how the author's right to transfer each asset is verified;
 - tax treatment of payments to authors, including withholding and treaty rates;
