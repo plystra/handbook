@@ -39,13 +39,23 @@ A partner project is not a Plystra-owned project and must not be described as on
 A partnership forms in stages, and either side may stop at any stage before an agreement is signed.
 
 1. **Conversation.** Plystra and the author talk at length about the product, how the author works, and what each side expects. Plystra partners with people before it partners with products; a strong product from someone Plystra does not trust does not proceed.
-2. **Trial collaboration.** Plystra and the author work together on one concrete piece, such as a feature or a release, for two to four weeks. The trial shows how each side writes code, handles feedback, keeps commitments, and resolves disagreement. It shows the author as much about Plystra as it shows Plystra about the author.
+2. **Trial collaboration.** Plystra and the author work together on one concrete piece, such as a feature or a release, for two to four weeks. The trial shows how each side writes code, handles feedback, keeps commitments, and resolves disagreement. It shows the author as much about Plystra as it shows Plystra about the author. A short trial agreement is signed before the trial begins; see [The trial agreement](#the-trial-agreement).
 3. **Written agreement.** Both sides sign an agreement that records the terms in this document, the Craft provisions the product must meet, Plystra's expected involvement, and anything specific to the product.
 4. **Co-development.** Plystra and the author work on the product together. The product uses its own name and makes no public reference to Plystra.
 5. **Standard review.** Plystra's steward reviews the product against the agreed standard. If it meets the standard, Plystra's participation may be stated publicly. If it does not, work continues or the partnership ends, and the public never learns of the association.
 6. **Release and continuing review.** Plystra LLC sells the product. The standard continues to apply to every release, and Plystra may review the product at any time.
 
 Plystra takes on only as many partnerships as it can work on deeply. A candidate may be asked to wait.
+
+## The trial agreement
+
+The trial happens before the partnership agreement, so it has its own short agreement, signed before any work or source is exchanged. It settles three things.
+
+First, contributions. Everything Plystra contributes during the trial belongs to the author, on the same terms as in [Ownership](#ownership). Plystra's existing materials used in the trial remain Plystra's, and the author receives a perpetual license to use them in the product.
+
+Second, confidentiality. Each side keeps the other's source, unreleased plans, and non-public information confidential, and uses it only to evaluate the partnership. Plystra does not use the author's source or product ideas to build a competing product.
+
+Third, what happens if no partnership follows. Either side may end the trial at any time, for any reason, without owing anything. If the trial ends without a partnership agreement, the author keeps everything produced in the trial, Plystra deletes its copy of the author's source, and neither side mentions the trial publicly unless both agree. The trial creates no obligation to sign a partnership agreement and gives Plystra no right of first negotiation.
 
 ## Ownership
 
@@ -85,18 +95,20 @@ The author makes these commitments to Plystra, and the agreement records them:
 
 - **The product is the author's to offer.** Its code and content are original or properly licensed, and its license obligations are met.
 - **Nothing is hidden.** Third-party dependencies are declared, data collection is disclosed, and known defects or security weaknesses that matter to customers are disclosed to Plystra.
-- **Customers are looked after.** The author provides support and after-sales service, decides and bears the cost of refunds, and handles chargebacks and disputes about the product. This covers every subscription sold through Plystra LLC.
+- **Customers are looked after.** The author provides support and after-sales service, sets the refund policy and decides individual refunds, bears the cost of refunds, and handles chargebacks and disputes about the product. This covers every subscription sold through Plystra LLC.
 - **Problems are resolved.** When a customer problem or a breach of these promises arises, the author resolves it promptly.
 
 The author bears the consequences of breaking these promises, including legal liability that reaches Plystra LLC because the author did not disclose something, and indemnifies Plystra LLC for it.
 
-Plystra LLC may deduct refunds and chargebacks from amounts owed to the author. It may hold back up to 10% of a month's proceeds for up to 120 days to cover open chargebacks and disputes, and releases the remainder when that period ends.
+The author's refund decisions are bounded by the obligations Plystra LLC carries as the seller: consumer protection law in each customer's jurisdiction, the rules of the payment and merchant-of-record platforms, and Plystra LLC's published terms of sale. Plystra LLC may issue a refund directly when one of these requires it, or when a customer's refund request has gone unanswered by the author for 5 business days. The cost of such a refund is the author's unless it results from Plystra LLC's own error.
+
+Plystra LLC may deduct refunds and chargebacks from amounts owed to the author, and may hold back a reserve to cover refunds, chargebacks, and disputes that can still arise. Because that risk depends on the payment channel, the product, and its subscription terms, the agreement sets the reserve for each product: its size, how long each amount is held, and when it is released. The reserve is stated before the partnership begins, shown on every statement, and released when its period ends.
 
 ## Stating Plystra's participation
 
 Plystra's participation is stated publicly only after the product meets the Plystra standard and Plystra's steward confirms it in writing. Before that, the product carries no Plystra name, mark, or reference anywhere.
 
-Once confirmed, the product's official website and its repository each state clearly that Plystra participates in the product. The wording is agreed in writing for each product and need not follow a fixed form. For example:
+Once confirmed, the product's official website and its repository each state clearly that Plystra participates in the product. This statement is a current endorsement, as defined in [Current endorsement and historical attribution](#current-endorsement-and-historical-attribution), and lasts only while Plystra permits it. The wording is agreed in writing for each product and need not follow a fixed form. For example:
 
 > Made by [Author] with Plystra.
 
@@ -116,21 +128,35 @@ Plystra decides what carries its name and what it sells. Plystra may withdraw th
 
 Either side may end a partnership. How it ends depends on why.
 
+### Current endorsement and historical attribution
+
+Two kinds of statement are treated differently when Plystra withdraws its name or a partnership ends.
+
+A **current endorsement** is any statement that Plystra participates in the product now, or any use of the Plystra name, wordmark, or visual identity on a current surface: the product, its official website, its repository's README and description, its store listings, and its current marketing. Current endorsement exists only while Plystra permits it.
+
+A **historical attribution** is a truthful, past-tense statement of what happened, such as "Developed with Plystra from 2027 to 2028" or "Versions 1.0 to 1.4 were developed with Plystra". It names no Plystra mark beyond the plain name, and it must not suggest that Plystra participates now or endorses the product.
+
+Records that cannot or need not be rewritten are neither. Version control history, commit authorship, changelogs and release notes for past releases, and legally required notices stay as they are in every case, and neither side asks the other to alter them.
+
 ### Withdrawing the Plystra name
 
-Plystra may withdraw the statement of its participation at any time, at its own discretion. When it does, the author removes every Plystra name and mark from the product, its website, its repository, and its listings within 3 days. Withdrawing the name does not by itself stop sales or end the partnership.
+Plystra may withdraw its current endorsement at any time, at its own discretion, and explains its reasons to the author. The author removes every current endorsement within 3 days. Unless the withdrawal is for serious cause, the author may then keep a historical attribution covering the period before the withdrawal.
+
+Withdrawing the name does not by itself stop sales or end the partnership.
 
 ### Ordinary end
 
 The author may end the partnership at any time with 30 days' written notice, for any reason, including to sell the product independently or through a company of the author's own. Plystra may end it with the same notice. No fee, compensation, or payment is owed by either side for ending it.
 
-After the notice, Plystra LLC continues to sell the product without its name for a transition period of 60 days, so that the author can move customers and subscriptions to the author's own sales. Plystra LLC then hands over customer and subscription records, stops selling, and pays the final statement.
+The partnership ends on the last day of the notice period. On that date, current endorsement ends and is removed within 3 days, Plystra's work on the product stops, the right of first negotiation ends, and Plystra stops using the author's source.
 
-After an ordinary end, the author may keep an accurate historical statement of the partnership, such as "Started with Plystra" or "Developed with Plystra from 2027 to 2028". It must describe the past relationship truthfully and must not suggest that the partnership continues.
+A sales transition of 60 days follows the end date, so that the author can move customers and subscriptions to the author's own sales. During the transition, only these obligations continue: Plystra LLC sells the product without its name, keeps processing renewals, refunds, and chargebacks, and continues monthly statements and payments; the author continues to provide support and bears the costs described in [What the author promises](#what-the-author-promises); and both sides keep their confidentiality obligations. At the end of the transition, Plystra LLC stops selling, hands over customer and subscription records as far as the law allows, and pays the final statement once the reserve period has run.
+
+After an ordinary end, the author may keep a historical attribution.
 
 ### Ending for serious cause
 
-Plystra ends the partnership immediately, without notice and without a transition period, when any of these occurs:
+Plystra ends the partnership immediately, without notice and without a sales transition, when any of these occurs:
 
 - malicious code, undisclosed data collection, or a concealed security weakness in the product;
 - unlawful conduct connected with the product or the author;
@@ -139,7 +165,11 @@ Plystra ends the partnership immediately, without notice and without a transitio
 - a customer problem or breach of the author's promises that the author does not resolve;
 - public conduct by the author that seriously harms Plystra's reputation.
 
-Separation is complete within 3 days. Plystra LLC stops selling the product at once and ends or hands over all subscriptions, and the author removes every Plystra name and mark from the product, its website, its repository, and its listings. The author may not refer to the past association in any form. Plystra LLC hands over customer and subscription records as far as the law allows, and pays the final statement, less refunds, chargebacks, and costs for which the author is responsible.
+The partnership ends on the day Plystra gives notice, and separation is complete within 3 days. Plystra LLC stops selling the product at once and ends or hands over all subscriptions, and the author removes every current endorsement. No historical attribution may be made on any current surface. Plystra LLC hands over customer and subscription records as far as the law allows, and pays the final statement once the reserve period has run, less refunds, chargebacks, and costs for which the author is responsible.
+
+### What survives
+
+Whatever the reason for the end, these obligations continue after it: confidentiality, the assignment of Plystra's contributions and the license of Plystra's existing materials, each side's indemnity for events before the end, the author's responsibility for refunds and chargebacks on sales made through Plystra LLC, and Plystra LLC's obligation to pay what it owes.
 
 ## Acquisition
 
@@ -157,10 +187,12 @@ Plystra does not collect or move money informally on anyone's behalf.
 
 The following must be settled with a lawyer and an accountant before the first agreement is signed:
 
-- the form of the agreement, including the assignment of Plystra's contributions, the perpetual license of Plystra's existing materials, the license to state Plystra's participation, confidentiality, termination, and the right of first negotiation;
+- the trial agreement, including the assignment of trial contributions, confidentiality, and deletion of source when no partnership follows;
+- the form of the partnership agreement, including the assignment of Plystra's contributions, the perpetual license of Plystra's existing materials, the license to state Plystra's participation, confidentiality, termination, and the right of first negotiation;
 - the mutual indemnities, and how the author's responsibility for customers is made enforceable while Plystra LLC is the seller of record;
 - the author's warranties about originality, licensing, disclosure, and security;
 - whether partner products should be sold through Plystra LLC or through a separate entity that isolates their liabilities;
+- the refund policy and Plystra LLC's terms of sale, and the reserve for each product, set from the actual payment channel, chargeback windows, and subscription terms;
 - the choice of merchant-of-record platform, and how subscriptions and customer records are moved to the author at the end of a partnership;
 - tax treatment of payments to authors, including withholding and treaty rates;
 - customer data: Plystra LLC's role while it holds the data, and the lawful basis for handing it to the author.
