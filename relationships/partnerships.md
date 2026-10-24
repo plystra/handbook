@@ -26,15 +26,9 @@ Trust is established before the agreement, by choosing people carefully, and not
 
 A partnership is a relationship between Plystra LLC and one author: an individual product creator or a studio of a few people. Plystra does not partner with larger companies, does not invest, and does not take equity.
 
-The partnership differs from the relationships defined in [Plystra Craft](https://github.com/plystra/craft#scope-and-project-relationships):
+A partner project is one of the three project relationships described in [Relationships](README.md). Its author owns it; Plystra is its product partner, and its sales channel when the author wants that.
 
-| Relationship | Who owns the product | Plystra's role | Public wording |
-| --- | --- | --- | --- |
-| Plystra-owned project | Plystra LLC | Owner and steward | A Plystra project. |
-| Sponsored project | Its independent owner | Agreed support only | Sponsored by Plystra. |
-| **Partner project** | **The author** | **Product partner, and sales channel when agreed** | **An agreed statement of Plystra's participation** |
-
-A partner project is not a Plystra-owned project and must not be described as one. Plystra's part in it is deeper than sponsorship: Plystra thinks the product through with the author and takes part in its decisions, and a product is a partner project only for as long as Plystra consents.
+A partner project is not a Plystra project and must not be described as one. Plystra's part in it is deeper than [sponsorship](sponsorship.md): Plystra thinks the product through with the author and takes part in its decisions, and a product is a partner project only for as long as Plystra consents.
 
 Exchanging ideas is not a partnership. Plystra talks with many creators about their products, and conversation, criticism, or advice about a product, however long it continues, does not make it a partner project. Such a product is not listed as a partner project and may not refer to Plystra, no agreement is needed, and Plystra claims nothing from the exchange.
 
@@ -159,7 +153,7 @@ The statement is a current endorsement, as defined in [Current endorsement and h
 
 > [Product] is a partnership between [Author] and Plystra.
 
-Whatever the wording, it must make Plystra's participation plain to a reader, and it must not describe the product as a Plystra-owned project or as a Plystra project. Receipts name the seller under the sales structure in use.
+Whatever the wording, it must make Plystra's participation plain to a reader, and it must not describe the product as a Plystra project. Receipts name the seller under the sales structure in use.
 
 ## Decisions
 
@@ -236,15 +230,15 @@ Whatever the reason for the end, these obligations continue after it: confidenti
 
 ## Becoming a Plystra project
 
-A partner product may become a Plystra-owned project, but only when the author and Plystra both want it. Plystra does not promise this to any author, does not suggest it to win a partnership, and never makes it a condition of anything. An author who prefers to keep the product is never at a disadvantage for that choice.
+A partner product may become a Plystra project, but only when the author and Plystra both want it. Plystra does not promise this to any author, does not suggest it to win a partnership, and never makes it a condition of anything. An author who prefers to keep the product is never at a disadvantage for that choice.
 
 The change is made by a separate written transfer agreement, negotiated for the particular product. Under it, Plystra LLC acquires the copyright in the product, its name, and its domain, and takes over the customer relationships as far as the law allows. Whether Plystra pays for the transfer, and what the author's role is afterwards, are agreed freely between the two sides. The author may continue as a maintainer under a separate agreement, or step away.
 
 Before the transfer, both sides confirm that the author has the right to transfer every asset named in it. This means checking the licenses of third-party components, obtaining assignments or permissions from anyone else who contributed code, design, or content, and confirming that the name and domain are free of competing claims. Assets the author cannot transfer are named in the agreement and handled separately.
 
-A product can make this change only if it meets the conditions the [Charter](https://github.com/plystra/craft/blob/main/CHARTER.md) sets for every Plystra-owned project, including a commitment to the full Craft philosophy, and only if Plystra can maintain it with the resources it has.
+A product can make this change only if it meets the [admission conditions](plystra-projects.md#2-admission) for every Plystra project, including a commitment to the full Craft philosophy, and only if Plystra can maintain it with the resources it has.
 
-After the transfer, the product follows the rules for Plystra-owned projects and may say "A Plystra project". The author is credited as its original creator permanently, for example "Created by [Author]", on the product's website and in its repository.
+After the transfer, the product follows the rules for [Plystra projects](plystra-projects.md) and may say "A Plystra project". The author is credited as its original creator permanently, for example "Created by [Author]", on the product's website and in its repository.
 
 The partnership agreement also gives Plystra a right of first negotiation for the duration of the partnership. If the author decides to sell the product, the author first negotiates with Plystra in good faith for 30 days before offering it to anyone else. The right does not prevent the author from leaving, or from running the product through a company of the author's own.
 
@@ -279,6 +273,7 @@ The following must be settled with a lawyer and an accountant before the first a
 
 ## Related documents
 
+- [Relationships](README.md): the three project relationships and their public wording.
+- [Membership](membership.md): how a partner author may become part of Plystra.
 - [Plystra Craft](https://github.com/plystra/craft): the standard partner products are reviewed against.
-- [Charter](https://github.com/plystra/craft/blob/main/CHARTER.md): why Plystra exists and what its work commits to.
-- [Governance and Legal](https://github.com/plystra/craft/blob/main/principles/11-governance-and-legal.md): ownership, attribution, licenses, and trademarks.
+- [Charter](../charter.md): why Plystra exists and what it aims to become.

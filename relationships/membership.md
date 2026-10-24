@@ -43,9 +43,7 @@ Membership does not change a partnership. A member who is also a partner author 
 
 ## Acting for Plystra
 
-By default, no member has any authority to act for Plystra. Plystra's steward may authorize a particular member, in writing, to make particular decisions or to speak for Plystra in particular matters. Each authorization states its scope and its duration, and Plystra may withdraw it at any time.
-
-Plystra keeps a current record of every authorization, so that anyone dealing with a member can confirm what that member may and may not do for Plystra. Anything outside a written authorization is the member's own act, not Plystra's.
+By default, no member has any authority to act for Plystra. A member may act for Plystra only within a written authorization from the steward, as described in [Acting for Plystra](../stewardship.md#4-acting-for-plystra).
 
 ## Contributions and ideas
 
@@ -77,4 +75,6 @@ When a membership ends, the person removes every current claim to be part of Ply
 
 ## Related documents
 
+- [Relationships](README.md): how membership relates to Plystra's project relationships.
 - [Plystra Partnerships](partnerships.md): how a product creator first works with Plystra.
+- [Stewardship](../stewardship.md): who may act for Plystra.
