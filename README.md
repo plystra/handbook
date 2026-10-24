@@ -11,6 +11,6 @@ How Plystra works with people: the terms of each relationship Plystra enters int
 
 ## License
 
-This handbook is dedicated to the public domain under CC0 1.0 Universal; see [LICENSE](LICENSE). The license does not grant permission to use the Plystra name, wordmark, or visual identity, or to imply affiliation with Plystra.
+This handbook is licensed under the Creative Commons Attribution 4.0 International License; see [LICENSE](LICENSE). The license does not grant permission to use the Plystra name, wordmark, or visual identity, or to imply affiliation with Plystra.
 
-Maintained by Plystra LLC.
+© 2026 Plystra LLC
